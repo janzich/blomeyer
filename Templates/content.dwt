@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=940">
+    <!-- TemplateBeginEditable name="doctitle" -->
+    <title>Blomeyer Health Fitness Center at Emory</title>
+    <!-- TemplateEndEditable -->
+    <link href="../common.css" rel="stylesheet" type="text/css">
+    <!-- TemplateBeginEditable name="head" -->
+    <!-- TemplateEndEditable -->
+</head>
+<body>
+
+<div id="fb-root"></div>
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1&appId=651066221587661";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>  
+
+    <div class="main-wrapper">
+
+        <div class="main-header">
+            <a href="../index.html" class="logo" title="Blomeyer Health Fitness Center at Emory"><img src="../images/logo.png" width="300" height="100" border="0" alt="Blomeyer Health Fitness Center"></a>
+            <div class="external-links">
+                <a href="http://www.emory.edu">Emory University</a> &nbsp;|&nbsp;
+                <a href="http://www.corpsports.com">Corporate Sports Unlimited, Inc.</a>
+            </div>
+            <a href="http://www.emory.edu" class="emory-logo" title="Emory University"><img src="../images/emory-logo.png" width="180" height="60" border="0" alt="Emory University"></a>
+            <ul class="main-menu"><!--
+                --><li><a href="../index.html">Home</a></li><!--
+                --><li><a href="../about/contact.html">About Us</a></li><!--
+                --><li><a href="../membership/availability.html">Membership</a></li><!--
+                --><li><a href="../services/assessment.html">Services</a></li><!--
+                --><li><a href="../groupfitness/schedule.html">Group Fitness</a></li><!--
+                --><li><a href="../buzz/current-news.html">Blomeyer Buzz</a></li><!--
+                --><li><a href="../resources/proshop.html">Resources</a></li><!--
+            --></ul>
+        </div>
+
+        <div class="main-content">
+
+            <table border="0" cellspacing="0" cellpadding="0" class="regular-page-layout">
+                <tbody>
+                    <tr>
+                        <td class="regular-page-sidebar"><!-- TemplateBeginEditable name="SideMenu" -->
+                        <!-- #BeginLibraryItem "/Library/regular-page-sidebar.lbi" -->
+                          <div class="section">
+                            <div class="title"> Membership </div>
+                            <ul class="links">
+                              <li> <a href="#">Availability and cost</a>
+                                <ul>
+                                  <li><a href="#">June 2013</a></li>
+                                  <li><a href="#">May 2013</a></li>
+                                  <li><a href="#">April 2013</a></li>
+                                  <li><a href="#">March 2013</a></li>
+                                  <li><a href="#">February 2013</a></li>
+                                  <li><a href="#">January 2013</a></li>
+                                  <li><a href="#">December 2012</a></li>
+                                  <li><a href="#">November 2012</a></li>
+                                  <li><a href="#">October 2012</a></li>
+                                  <li><a href="#">September 2012</a></li>
+                                  <li><a href="#">August 2012</a></li>
+                                  <li><a href="#">July 2012</a></li>
+                                </ul>
+                              </li>
+                              <li><a href="#">Forms</a></li>
+                              <li><a href="#">Guidelines</a></li>
+                              <li><a href="#">Cancellations</a></li>
+                              <li><a href="#">Faq</a></li>
+                            </ul>
+                          </div>
+                        <!-- #EndLibraryItem --> <!-- TemplateEndEditable --></td>
+                        <td class="regular-page-main-column"><!-- TemplateBeginEditable name="MainText" -->
+                          <h1>Availability and Cost</h1>
+                          <h2>Membership availability</h2>
+                          <p>Memberships are available to the faculty and staff
+                            of Emory University, <strong>Emory University Hospital</strong>,
+                            Crawford Long Hospital, The Emory Clinic and
+                            Wesley Woods, as well as to members of the Emory
+                            Residency Training Program, employees of The
+                            Carter Center, employees of Yerkes Primate Center,
+                            and employees of the Emory Children's Center.</p>
+                          <p>Membership is also open to employees of Emory
+                            affiliates: Egleston Hospital, CDC, American
+                            Cancer Society, the VA Hospital, Grady, and Ben
+                            Franklin Academy. Retirees, spouses of employees,
+                            and patients referred by Emory primary care
+                            physicians are also eligible.</p>
+                          <p>Everyone with the BHFC membership can also access
+                            Emory's Woodruff P.E. Center.</p>
+                          <h2>Complimentary Polar Body Age Fitness Assessment</h2>
+                          <p>The fitness assessment is a service provided to
+                            all members, new and current. The assessment
+                            itself takes approximately one hour and involves a
+                            number of baseline fitness measures. The Blomeyer
+                            Health Fitness Center is fortunate to possess a
+                            state of the art computer called the TriFit 600.
+                            This computer and software package not only make
+                            the fitness assessment an interesting experience,
+                            but provides you with a color printout of your
+                            results that you can take home with you to review.</p>
+                          <blockquote> The fitness assessment is a service provided to
+                            all members, new and current. The assessment
+                            itself takes approximately one hour and involves a
+                            number of baseline fitness measures. </blockquote>
+                          <p>Memberships are available to the faculty and staff
+                            of Emory University, Emory University Hospital,
+                            Crawford Long Hospital, The Emory Clinic and
+                            Wesley Woods, as well as to members of the Emory
+                            Residency Training Program, employees of The
+                            Carter Center, employees of Yerkes Primate Center,
+                            and employees of the Emory Children's Center.</p>
+                          <h3>Egleston Hospital</h3>
+                          <p>Membership is also open to employees of Emory
+                            affiliates: Egleston Hospital, CDC, American
+                            Cancer Society, the VA Hospital, Grady, and Ben
+                            Franklin Academy. Retirees, spouses of employees,
+                            and patients referred by Emory primary care
+                            physicians are also eligible.</p>
+                          <p>Everyone with the BHFC membership can also access
+                            Emory's Woodruff P.E. Center.</p>
+                        <!-- TemplateEndEditable --></td>
+                    </tr>
+                </tbody>
+            </table>
+
+        </div>
+
+        <div class="main-footer">
+            <table border="0" cellspacing="0" cellpadding="0" class="blocks">
+                <tbody>
+                    <tr>
+                        <td class="title address">
+                            Address
+                        </td>
+                        <td class="sep"></td>
+                        <td class="title contact">
+                            Contact
+                        </td>
+                        <td class="sep"></td>
+                        <td class="title corpsports">
+                            Hours
+                        </td>
+                        <td class="sep"></td>
+                        <td class="title facebook">
+                            Facebook
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="box address">
+                            Emory University<br>
+                            1525 Clifton Road, 5th floor<br>
+                            Atlanta, GA 30322
+                        </td>
+                        <td class="sep"></td>
+                        <td class="box contact">
+                            Phone: 404-727-4600<br>
+                            Fax: 404-727-4730<br>
+                            Email: blomeyer@emory.edu<br>
+                            Web: www.emory.edu/blomeyer<br>
+                        </td>
+                        <td class="sep"></td>
+                        <td class="box corpsports">
+                            Mon-Thu: 5:30am - 9:00pm<br>
+                            Fri: 5:30am - 8:00pm<br>
+                            Sat-Sun: 8:00am - 6:00pm<br>
+                        </td>
+                        <td class="sep"></td>
+                        <td class="box facebook-like">
+                            <div class="box-content">
+                                <div class="like-button-container">
+                                    <div class="fb-like" data-href="https://www.facebook.com/pages/Blomeyer-Health-and-Fitness-Center/121044077920974" data-send="false" data-layout="box_count" data-width="450" data-show-faces="false"></div>
+                                </div>
+                                <div class="text">
+                                    <div class="find-us">
+                                        Find us on Facebook
+                                    </div>
+                                    <div class="link">
+                                        <a href="https://www.facebook.com/pages/Blomeyer-Health-and-Fitness-Center/121044077920974">Blomeyer Health and Fitness Center</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            <div class="copyright">
+                The Blomeyer Health Fitness Center is managed for Emory by
+                <a href="http://www.corpsports.com/">Corporate Sports Unlimited, Inc.</a><br>
+                Last updated: June 2, 2013, &copy; 2013 Emory University<br>
+            </div>
+        </div>
+
+    </div>
+
+</body>
+</html>
