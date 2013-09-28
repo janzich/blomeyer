@@ -42,11 +42,12 @@ h1 {
 }
 
 h2 {
-    color: #c22;
+    color: #1d81c3;
 }
 
 a {
-    color: #ce0000;
+    color: #1d81c3;
+	/* color: #7bc152; */
     text-decoration: underline;
 }
 
@@ -67,7 +68,7 @@ blockquote {
 }
 
 strong {
-    color: #c22;
+    color: #1d81c3;
 	color: #000;
 }
 
@@ -75,78 +76,88 @@ strong {
 /* header */
 
 div.main-header {
-    position: relative;
     width: 940px;
-    height: 200px;
+}
+
+div.main-header div.logos {
+    position: relative;
     background-image: url(images/header.png);
+	height: 140px;
 }
 
-div.main-header a.logo {
-    position: absolute;
-    top: 45px;
-    left: 95px;
-}
-
-div.main-header div.external-links {
-    position: absolute;
-    right: 10px;
-    top: 5px;
-    color: #fb0;
-    font-size: 12px;
-}
-
-div.main-header div.external-links a {
-    color: white; 
-    text-decoration: none;
-}
-
-div.main-header div.external-links a:hover {
-    text-decoration: underline;
-}
-
-div.main-header a.emory-logo {
+div.main-header div.logos a.logo {
     display: block;
     position: absolute;
-    width: 180px;
-    height: 60px;
-    left: 745px;
-    top: 65px;
+    width: 320px;
+    height: 100px;
+    left: 20px;
+    top: 10px;
 }
 
-div.main-header ul.main-menu {
+div.main-header div.logos a.healthy-emory-logo {
     display: block;
-    left: 15px;
-    top: 163px;
+    position: absolute;
+    width: 123px;
+    height: 50px;
+    left: 720px;
+    top: 25px;
+}
+
+div.main-header div.nav-bar {
+	position: relative;
+	background-color: #203273;
+	height: 35px;
+}
+
+div.main-header div.nav-bar ul.main-menu {
+    display: block;
+	position: absolute;
+	top: -2px;
     margin: 0px;
     padding: 0px;
-    position: absolute;
     font-family: Viga, Helvetica, Arial, Verdana, sans-serif, sans-serif;
     font-weight: bold;
 }
 
-div.main-header ul.main-menu li {
+div.main-header div.nav-bar ul.main-menu li {
     display: block;
     float: left;
 }
 
-div.main-header ul.main-menu li a {
+div.main-header div.nav-bar ul.main-menu li a {
     display: block;
     line-height: 1;
     font-size: 16px;
-    padding: 12px 9px 11px 9px;
+    padding: 12px 8px 11px 8px;
     color: white;
     text-decoration: none;
-    margin-left: -1px;
-    margin-right: -1px;
     -transition: background-color 100ms;
 }
 
-div.main-header ul.main-menu li a:hover {
-    background-color: #c22;
+div.main-header div.nav-bar ul.main-menu li a:hover {
+    background-color: #7bc152;
 }
 
-div.main-header ul.main-menu li a.active {
-    background-color: #c22;
+div.main-header div.nav-bar ul.main-menu li a.active {
+    background-color: #7bc152;
+}
+
+div.main-header div.nav-bar div.external-links {
+    position: absolute;
+    right: 10px;
+    top: 12px;
+    color: #7bc152;
+	line-height: 1;
+    font-size: 12px;
+}
+
+div.main-header div.nav-bar div.external-links a {
+    color: white; 
+    text-decoration: none;
+}
+
+div.main-header div.nav-bar div.external-links a:hover {
+    text-decoration: underline;
 }
 
 
@@ -329,7 +340,7 @@ td.regular-page-sidebar div.section ul.links li a {
     font-family: Viga, Helvetica, Arial, Verdana, sans-serif, sans-serif;
     font-size: 1.2em;
 	font-weight: bold;
-    color: #c22;
+    color: #1d81c3;
     text-decoration: none;
 }
 
@@ -391,7 +402,7 @@ div.homepage-welcome-block div.text div.title2 {
     font-family: Viga, Helvetica, Arial, Verdana, sans-serif, sans-serif;
     font-weight: bold;
     font-size: 2em;
-    color: #c22;
+    color: #7bc152;
 }
 
 div.homepage-welcome-block div.text div.intro {
@@ -488,7 +499,7 @@ div.homepage-events-and-udpates-block td.updates-column div.items div.item span.
 }
 
 div.homepage-events-and-udpates-block div.items div.item div.title {
-    color: #c22;
+    color: #1d81c3;
     font-weight: bold;
 }
 
