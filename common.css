@@ -203,35 +203,35 @@ div.main-footer table.blocks td.sep {
 }
 
 div.main-footer table.blocks td.title.address {
-    color: #a00;
+    color: #264095;
 }
 
 div.main-footer table.blocks td.box.address {
-    background-color: #a00;
+    background-color: #264095;
 }
 
 div.main-footer table.blocks td.title.contact {
-    color: #d22;
+    color: #1d81c3;
 }
 
 div.main-footer table.blocks td.box.contact {
-    background-color: #d22;
+    background-color: #1d81c3;
 }
 
 div.main-footer table.blocks td.title.corpsports {
-    color: #f60;
+    color: #379047;
 }
 
 div.main-footer table.blocks td.box.corpsports {
-    background-color: #f60;
+    background-color: #379047;
 }
 
 div.main-footer table.blocks td.title.facebook {
-    color: #46a;
+    color: #aaa;
 }
 
 div.main-footer table.blocks td.box.facebook {
-    background-color: #46a;
+    background-color: #eee;
 }
 
 div.main-footer table.blocks td.box.facebook div.box-content {
@@ -258,15 +258,16 @@ div.main-footer table.blocks td.box.facebook div.box-content div.label {
     min-height: 40px;
 }
 
-div.main-footer table.blocks td.box.facebook-like {
-    background-color: #46a;
+div.main-footer table.blocks td.box.facebook {
+	color: #888;
+    background-color: #eee;
 }
 
-div.main-footer table.blocks td.box.facebook-like div.box-content {
+div.main-footer table.blocks td.box.facebook div.box-content {
     position: relative;
 }
 
-div.main-footer table.blocks td.box.facebook-like div.box-content div.like-button-container {
+div.main-footer table.blocks td.box.facebook div.box-content div.like-button-container {
     display: block;
     width: 44px;
     position: absolute;
@@ -274,18 +275,17 @@ div.main-footer table.blocks td.box.facebook-like div.box-content div.like-butto
     left: 0px;
 }
 
-div.main-footer table.blocks td.box.facebook-like div.box-content div.text {
+div.main-footer table.blocks td.box.facebook div.box-content div.text {
     margin-left: 52px;
     min-height: 40px;
     min-height: 62px;
 }
 
-div.main-footer table.blocks td.box.facebook-like div.box-content div.text div.find-us {
+div.main-footer table.blocks td.box.facebook div.box-content div.text div.find-us {
     font-weight: bold;
 }
 
-div.main-footer table.blocks td.box.facebook-like div.box-content div.text div.link a {
-    color: white;
+div.main-footer table.blocks td.box.facebook div.box-content div.text div.link a {
 }
 
 div.main-footer div.copyright {
