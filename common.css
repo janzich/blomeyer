@@ -94,7 +94,7 @@ div.main-header div.logos a.logo {
     top: 10px;
 }
 
-div.main-header div.logos a.healthy-emory-logo {
+div.main-header div.logos img.healthy-emory-logo {
     display: block;
     position: absolute;
     width: 123px;
@@ -113,6 +113,7 @@ div.main-header div.nav-bar ul.main-menu {
     display: block;
 	position: absolute;
 	top: -2px;
+	left: 10px;
     margin: 0px;
     padding: 0px;
     font-family: Viga, Helvetica, Arial, Verdana, sans-serif, sans-serif;
@@ -128,8 +129,10 @@ div.main-header div.nav-bar ul.main-menu li a {
     display: block;
     line-height: 1;
     font-size: 16px;
-    padding: 12px 8px 11px 8px;
+    padding: 12px 9px 11px 9px;
     color: white;
+	margin-left: -1px;
+	margin-left: -2px;
     text-decoration: none;
     -transition: background-color 100ms;
 }
@@ -140,24 +143,6 @@ div.main-header div.nav-bar ul.main-menu li a:hover {
 
 div.main-header div.nav-bar ul.main-menu li a.active {
     background-color: #7bc152;
-}
-
-div.main-header div.nav-bar div.external-links {
-    position: absolute;
-    right: 10px;
-    top: 12px;
-    color: #7bc152;
-	line-height: 1;
-    font-size: 12px;
-}
-
-div.main-header div.nav-bar div.external-links a {
-    color: white; 
-    text-decoration: none;
-}
-
-div.main-header div.nav-bar div.external-links a:hover {
-    text-decoration: underline;
 }
 
 
