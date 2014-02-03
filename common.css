@@ -42,7 +42,7 @@ h1 {
 }
 
 h2 {
-    color: #1d81c3;
+    color: #243d94;
 }
 
 a {
@@ -484,8 +484,9 @@ div.homepage-events-and-udpates-block td.updates-column div.items div.item span.
 }
 
 div.homepage-events-and-udpates-block div.items div.item div.title {
-    color: #1d81c3;
-    font-weight: bold;
+    /*color: #1d81c3;*/
+    color: #243d94;
+	font-weight: bold;
 }
 
 div.homepage-events-and-udpates-block div.items div.item div.date {
